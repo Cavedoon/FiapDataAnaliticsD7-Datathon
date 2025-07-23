@@ -159,7 +159,7 @@ st.sidebar.markdown(
         <p style="color: #212529; margin: 0;">
             A análise completa e o treinamento do modelo de decisão estão disponíveis no GitHub.
         </p>
-        <a href="https://github.com/shibbys/FiapDataAnaliticsD7-Datathon/blob/main/README.md" target="_blank" rel="noopener noreferrer" style="color: #0B5ED7; font-weight: bold; text-decoration: none;">
+        <a href="https://github.com/Cavedoon/FiapDataAnaliticsD7-Datathon/blob/main/README.md" target="_blank" rel="noopener noreferrer" style="color: #0B5ED7; font-weight: bold; text-decoration: none;">
             ➡️ Acessar Notebook
         </a>
     </div>
