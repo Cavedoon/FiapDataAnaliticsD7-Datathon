@@ -91,7 +91,7 @@ streamlit run dashboard-Streamlit.py
 
 Dúvidas ou sugestões?
 
-Abra um Issue ou envie um e-mail para [marlon.shibby@gmail.com]
+Abra um Issue ou envie um e-mail para [robertoc.muller@gmail.com]
 
 ## 🏆 Créditos
 
